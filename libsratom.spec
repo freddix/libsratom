@@ -1,11 +1,11 @@
 Summary:	Library for serialising LV2 atoms to/from RDF
 Name:		libsratom
-Version:	0.4.2
+Version:	0.4.4
 Release:	1
 License:	GPL v2
 Group:		Libraries
 Source0:	http://download.drobilla.net/sratom-%{version}.tar.bz2
-# Source0-md5:	5bb7e4bc4198e19f388ac51239007f25
+# Source0-md5:	07449e40511f5911298ee4c79ad0530a
 BuildRequires:	libserd-devel >= 0.18.0
 BuildRequires:	libsord-devel >= 0.12.0
 BuildRequires:	libstdc++-devel
